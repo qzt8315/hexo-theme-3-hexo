@@ -11,7 +11,7 @@ blog_path: /
 link:
   theme: color # 链接样式，color: 彩色图标  white: 黑白图标
   items:
-    rss: 
+    rss: /atom.xml
     github: https://github.com/qzt8315
     facebook: 
     twitter:
@@ -186,7 +186,7 @@ mathjax:
 
 # 友情链接
 friends:
-  个人网站: http://www.pplove.ga/
+  个人网站: http://www.77ee.top/
 
 ##########评论设置#############
 comment:
